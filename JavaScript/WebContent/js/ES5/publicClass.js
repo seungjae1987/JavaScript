@@ -12,7 +12,7 @@ function PublicClass(){
 	}
 }
 /**
- * 공용함수 시
+ * 공용함수 시작 
  */
 function fn_publicText(){
 	var publicLet = new PublicClass();
