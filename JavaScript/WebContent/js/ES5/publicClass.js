@@ -20,3 +20,13 @@ function fn_publicText(){
 	/*캘린더세팅*/
 	publicLet.initCalendar('calendarText');
 }
+
+/**
+ * 공용함수 시작 
+ */
+function test(){
+	var publicLet = new PublicClass();
+	//console.log(publicLet);
+	/*캘린더세팅*/
+	publicLet.initCalendar('calendarText');
+}
